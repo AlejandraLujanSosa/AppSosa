@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180108385148",
+    "firebase_url": "https://aplicacionsosa-ad8c5.firebaseio.com",
+    "project_id": "aplicacionsosa-ad8c5",
+    "storage_bucket": "aplicacionsosa-ad8c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180108385148:android:9721ed6bc52f3ed86162f9",
+        "android_client_info": {
+          "package_name": "com.example.appsosa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180108385148-73n1c7if38et31akm8pna5ejermv1unf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDhmeTOjf6OHrysE1cnbeIfrQ4twTawQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180108385148-73n1c7if38et31akm8pna5ejermv1unf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
